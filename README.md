@@ -1,2 +1,8 @@
 # Utsav-Akash-Naskar-Collection-Task
 This repository is for EPAM INDIA PEP collection task.
+<br><b>Task Details:</b>
+
+Implement a custom collection List with the following features.
+1. List may grow from zero to infinite size .
+2. List will be initialized with minimum 10 elements at the time of creation.
+3. List will provide methods for fetching, adding, removing and printing the list at any state in its lifecycle.
